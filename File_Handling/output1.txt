@@ -1,0 +1,4 @@
+Hi!
+Hello... Everyone.
+This is a demo file.
+And this is a text file.
